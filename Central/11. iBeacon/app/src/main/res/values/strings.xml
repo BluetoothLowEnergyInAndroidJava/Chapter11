@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Beacon Search</string>
+    <string name="action_start_scan">Scan</string>
+    <string name="action_stop_scan">Stop</string>
+    <string name="scanning">Scanning...</string>
+    <string name="beacon_list_empty">No iBeacons Found</string>
+    <string name="rssi">RSSI: %1$d</string>
+    <string name="major_number">Major: %d</string>
+    <string name="minor_number">Minor: %d</string>
+    <string name="distance">Distance: %1$s meters</string>
+    <string name="location">X: %1$s m, Y: %2$s m</string>
+    <string name="transmission_power">TX Power: %1$d</string>
+    <string name="central_position">Central at (%1$s m, %2$s m)</string>
+</resources>
